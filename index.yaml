@@ -3,7 +3,17 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.28.0
-    created: "2025-12-07T09:22:20.009638956-10:00"
+    created: "2025-12-07T09:35:59.184304487-10:00"
+    description: Helm chart for deploying Nginx to Kubernetes
+    digest: 386fbe958611f3fab9264ea379c07a64e89b3e8cd9a7dad954ec9f5b8b4f48e5
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.28.0
+    created: "2025-12-07T09:35:59.184075412-10:00"
     description: Helm chart for deploying Nginx to Kubernetes
     digest: e901bbe29a2d93e7504f0ebb210aff4e1c2036c8594e8ec6cc38edfd4bb51adc
     name: nginx
@@ -11,4 +21,4 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2025-12-07T09:22:20.009226771-10:00"
+generated: "2025-12-07T09:35:59.183721407-10:00"
